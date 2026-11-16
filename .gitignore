@@ -1,0 +1,13 @@
+# Credenciales reales de la base de datos (cada equipo/servidor tiene la suya)
+api/config.php
+
+# Archivos de apoyo que no deben subirse
+api/hash.php
+api/reset_admin.php
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
